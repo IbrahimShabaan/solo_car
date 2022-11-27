@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689234337940",
+    "project_id": "solo-car-45acf",
+    "storage_bucket": "solo-car-45acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689234337940:android:0052b33372dfbbcda91481",
+        "android_client_info": {
+          "package_name": "com.example.solo_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689234337940-4sdupoc0jhgsuvkk6bc3s7bqce3dd0nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-HgZYWk69v68sCXRRvyNRNR4kHuFLvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689234337940-4sdupoc0jhgsuvkk6bc3s7bqce3dd0nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

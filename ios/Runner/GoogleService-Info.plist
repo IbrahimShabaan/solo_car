@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>689234337940-t1633h5bqua9j2nm2j2j1oiio1glfofj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.689234337940-t1633h5bqua9j2nm2j2j1oiio1glfofj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwrSRWekMFHTx0yTJHB6JurPmdeamzOPY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>689234337940</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.soloCar</string>
+	<key>PROJECT_ID</key>
+	<string>solo-car-45acf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solo-car-45acf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:689234337940:ios:9621a8067d52f697a91481</string>
+</dict>
+</plist>
